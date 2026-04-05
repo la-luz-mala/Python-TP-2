@@ -1,6 +1,6 @@
 # Proyecto de Ejercicios Python 
-*** Nombre: María Luz Davico ***
-*** Legajo: 12087/2 ***
+**Nombre: María Luz Davico**
+**Legajo: 12087/2**
 
 Este proyecto contiene los ejercicios resueltos correspondientes al Trabajo Práctico 2 de la materia Seminario de Python 2026, Facultad de Informática, UNLP.
 
